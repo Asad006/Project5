@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/Asad006/MovieListApp_Proejct2/blob/main/movieApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Asad006/Project5/blob/main/thi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ios screen recorder
